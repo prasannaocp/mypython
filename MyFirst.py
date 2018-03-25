@@ -3,13 +3,13 @@ print ("this is Prasanna's first python program!")
 print ('This is Prasanna"S first program and learning string and Variables')
 print ("Python is \"fun\" to learn and remember it's \"easy to forget\"")
 print ('Python is \"fun\" to learn and remember it\'s \"easy to forget\"')
-name = 'Prasanna Sridharan'
+name = 'Prasanna'
 print(name)
 print (name.upper())
 print (name.lower())
 length_name = len(name)
 print(length_name)
-print ("I" + "Learn" + "Concatenation")
+print ("I" + "Learn" + "Python")
 print ("I" + " Learn " + "Concatenation")
 action = 'reading'
 subject = 'python'
