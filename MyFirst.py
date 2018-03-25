@@ -18,7 +18,7 @@ print(sentence)
 sentence1 = name + ' ' + action + " " + subject + "."
 print(sentence1)
 mean = 'Be Happy ' + 'always '
-print (mean * 3)
+print (mean * 5)
 version = 2.0
 print (name + " " + str(version))
 print ('{} {} {},'.format('I', 'Love', 'Python'))
