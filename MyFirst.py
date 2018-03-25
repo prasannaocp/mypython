@@ -23,4 +23,4 @@ version = 2.0
 print (name + " " + str(version))
 print ('{} {} {},'.format('I', 'Love', 'Python'))
 print ("I hate {2}".format('I', 'Love', 'Python'))
-print("length of " + (name)+'is '+ str(length_name))
+print("length of " + (name)+' is '+ str(length_name))
