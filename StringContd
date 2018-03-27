@@ -1,0 +1,9 @@
+print ('{0:5},{1:10}'.format('First Name','Last Name'))
+print ('{0:15},{1:10}'.format('Prasanna','Sridharan'))
+
+#Not working
+#friend = input('enter a name of a Friend:')
+#print('{} is a lovely friend.'.format(friend))
+
+
+
