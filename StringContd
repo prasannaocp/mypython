@@ -1,11 +1,11 @@
-print ('{0:5},{1:10}'.format('First Name','Last Name'))
-print ('{0:5},{1:10}'.format('Prasanna','Sridharan'))
+print ('{0:15},{1:10}'.format('First Name','Last Name'))
+print ('{0:15},{1:10}'.format('Prasanna','Sridharan'))
 
 #Not working
-#friend = input('enter a name of a Friend:')
-#print('{} is a lovely friend.'.format(friend))
+friend = input('enter a name of a Friend:')
+print('{} is a lovely friend.'.format(friend))
 
 #working
-friend = raw_input('enter a name of a Friend:')
-print('{} is a lovely friend.'.format(friend))
+#friend = raw_input('enter a name of a Friend:')
+#print('{} is a lovely friend.'.format(friend))
 
