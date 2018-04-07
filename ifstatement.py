@@ -9,8 +9,8 @@ if age<20:
     print ("Love your books")
 elif age >=20 and age < 40: # if,else - conditional statement ends with : 
     print ("love your life and live every moment of it")
-elif age>=40 and age <120: # mulltiple elif statement allowed on python
+elif age>=40 and age <120: # mulltiple elif statement allowed on python progam
     print ('life begins @ 40, So enjoy your life')
 else:
     print ('tell your right age - is that a DEAD MAN living')
-print ("Dont read this crazy code !! - I am new to python")    # not in code block, gets printed every time
+print ("Dont read this crazy code !! - I am new to python")    # not in code block, gets printed every time you run
