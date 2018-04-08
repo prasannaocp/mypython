@@ -1,5 +1,5 @@
 #while loop
-#infinite loop - ctl+C
+#to exit infinite loop - ctl+C
 
 sports=['WeE','CricKet','Tennis','Hockey','Football']
 index=0

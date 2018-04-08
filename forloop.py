@@ -1,4 +1,4 @@
-#loops
+#For loops
 #for - every items on list - code block used
 
 sports=['WeE','CricKet','Tennis','Hockey','Football']
