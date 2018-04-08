@@ -1,3 +1,4 @@
+# function contd
 def player_name():
     name=input("Enter the name of player : ")
     return name
