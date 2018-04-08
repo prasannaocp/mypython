@@ -1,7 +1,7 @@
 # learning functions - DRY - Dont Repeat yourself . Write once , Use Many
 #def function_name():
     #Code Block
-#function to be defined first before calling 
+#function to be defined first before calling
 
 def your_age(age):
     print ('your age is :{}' .format(age))
@@ -11,7 +11,9 @@ print (type(your_age))
 #print (type(age))
 
 def name_age(name='John Cena' , age=26):
-    print (' Welcome to Programming World of Python!! - Hey {} and your age is {} !!!' .format (name,age))
+    """This is my doc string - Doc sring provides summary of function - This function is used to get name age and prints it.
+help(function_name) get the information about function"""
+    print (' Welcome to Programming World of Python!! - Hey {}  your age is {} !!!' .format (name,age))
 name_age()
 name_age('Braun',33)
 name_age(33)
@@ -22,3 +24,7 @@ x=input ("Enter your name:")
 y=input ("Enter your age:")
 y=int(y)
 name_age(x,y)
+help (name_age)
+
+
+
