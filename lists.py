@@ -1,4 +1,5 @@
 #list in Python - list []
+# {} - purpose
 players=['Cena','Reign','Orton','Styles']
 print (players)
 print (players[2])
@@ -18,8 +19,8 @@ print (players)
 players.insert(0,'Lesnar')
 players.insert(2,'Goldberg')
 print (players)
-reverse_players=players.reverse()
-print ("the reverse order of players is: ".format(reverse_players))
+players.reverse()
+print ("the reverse order of players is: {}". format(players))
 #Slices
 players=['Cena','Reign','Orton','Styles','Rusev','Cena']
 raw_players=players[0:1] # returns only 0. the last index not returned
