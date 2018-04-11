@@ -1,5 +1,5 @@
 print ("This is my first python Program")
-print ("this is Prasanna's first python program!")
+print ("this is My first python program!")
 print ('This is Prasanna"S first program and learning string and Variables')
 print ("Python is \"fun\" to learn and remember it's \"easy to forget\"")
 print ('Python is \"fun\" to learn and remember it\'s \"easy to forget\"')
